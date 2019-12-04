@@ -2,6 +2,10 @@
 
 Provide R-like interface to Clojure
 
+## Installation
+
+[![Clojars Project](https://img.shields.io/clojars/v/tinker.svg)](https://clojars.org/tinker)
+
 ## License
 
 Copyright © 2019 Maximilian A. Giraldo 
